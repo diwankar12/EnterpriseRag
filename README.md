@@ -562,11 +562,3 @@ security:
 5. Gradually add reranker, multimodal support, and governance policies
 6. Create evaluation dataset and baseline metrics
 
----
-
-If you want, I can:
-- Produce a ready-to-commit README.md in a branch and open a PR for you, or
-- Create a compact executive summary + one-page architecture diagram for leadership, or
-- Convert specific sections above into Confluence pages or onboarding docs.
-
-Tell me which next step to take and I will prepare it (e.g., commit a README.md to a branch and open a PR named `docs/arch/readme-upgrade`).
